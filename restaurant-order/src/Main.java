@@ -6,7 +6,7 @@ public class Main {
 
         System.out.println("");
         System.out.println("Restaurant: Chez Mickaël");
-        System.out.println("Serveur connecté: Mickaël");
+        System.out.println("Serveur connecté: Jojo");
         System.out.println("Table: 12");
         System.out.println("");
         System.out.println("Commande N°1");
